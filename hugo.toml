@@ -1,0 +1,6 @@
+baseURL = "https://example.com"
+defaultContentLanguage = "en"
+title = "Deep Dives with Ian"
+theme = "kopi"
+
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Home on Deep Dives with Ian</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content in Home on Deep Dives with Ian</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 17 Jun 2026 21:33:22 -0700</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Welcome</title>
+				<link>http://localhost:1313/posts/welcome/</link>
+				<pubDate>Wed, 17 Jun 2026 21:33:22 -0700</pubDate>
+				<guid>http://localhost:1313/posts/welcome/</guid>
+				<description>&lt;h2 id=&#34;a-brief-introduction&#34;&gt;A Brief introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is a short form site that will most likely change as time goes on that will be where I put my individual changes and ideas. I am not sure exactly how often or what I will cover, but I want to make sure that I am doing something that is built by me and for me!&lt;/p&gt;&#xA;&lt;p&gt;I will eventually link things and be more specific on what my individual set up is, right now this is a very niche place that will be my home on the world wide webs.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
