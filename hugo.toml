@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://www.divelab.tech"
 defaultContentLanguage = "en"
 title = "Deep Dives with Ian"
 theme = "kopi"
