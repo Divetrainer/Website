@@ -3,4 +3,6 @@ defaultContentLanguage = "en"
 title = "Deep Dives with Ian"
 theme = "kopi"
 
-
+[Author]
+name = 'Ian'
+role = 'Chief Nerd'
