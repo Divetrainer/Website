@@ -28,7 +28,7 @@ main() {
   NODE_VERSION=24.16.0
 
   # Set the build timezone
-  export TZ=Europe/Oslo
+  export TZ=America/Los_Angeles
 
   # Set the build cache directory
   export HUGO_CACHEDIR="${PWD}/.cache/hugo_cache"
