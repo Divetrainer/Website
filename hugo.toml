@@ -3,6 +3,10 @@ defaultContentLanguage = "en"
 title = "Deep Dives with Ian"
 theme = "kopi"
 
-[Author]
-name = 'Ian'
-role = 'Chief Nerd'
+[params]
+
+	[params.author]
+	name = "Ian P."
+	bio = "3 giant kelp in a trench coat"
+	role = "Cool Guy in Training"
+
